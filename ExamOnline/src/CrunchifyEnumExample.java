@@ -46,5 +46,6 @@ public class CrunchifyEnumExample {
 		yahoo.companyDetails();
 		CrunchifyEnumExample att = new CrunchifyEnumExample(Company.ATT);
 		att.companyDetails();
+		System.out.println("check_in 2 time");
 	}
 }
